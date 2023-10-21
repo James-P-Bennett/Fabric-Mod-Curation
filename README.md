@@ -40,3 +40,8 @@ Welcome to the Fabric-Mod-Curation repository. If you have a mod in mind that yo
 8. **autoFish**  
    **Warning: Some servers do not allow these sorts of mods and may have detection systems that can lead to bans for using them.** autoFish is an advanced auto-fishing macro that provides an AFK fishing experience with extra features. Please note that you may need to compile it for Minecraft version 1.20.2, as jar downloads for later versions can be rare.  
    [Get autoFish on GitHub](https://github.com/MrTroot/autofish/pull/56#pullrequestreview-1691301816)
+
+9. **AppleSkin**  
+   AppleSkin is a mod that displays accurate hunger, saturation and exhaustion values.
+   [Download AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+
