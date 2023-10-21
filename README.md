@@ -45,6 +45,9 @@ Welcome to the Fabric-Mod-Curation repository. If you have a mod in mind that yo
    AppleSkin is a mod that displays accurate hunger, saturation and exhaustion values.
    [Download AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 
+10. **What the hell is that? (WTHIT)**  
+   WTHIT is a mod that adds an in-game tooltip with information about the block or fluid the player is looking at.  
+   [Download WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit)
 
 ## Resource Packs
 
