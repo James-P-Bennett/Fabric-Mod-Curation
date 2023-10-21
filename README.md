@@ -45,3 +45,9 @@ Welcome to the Fabric-Mod-Curation repository. If you have a mod in mind that yo
    AppleSkin is a mod that displays accurate hunger, saturation and exhaustion values.
    [Download AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 
+
+## Resource Packs
+
+1. **Remove Splash Text**  
+   Scrubs political slogans from a children's block game.
+   [Download Remove Splash Text](https://www.mediafire.com/file/ddy1pvrr4o3yl41/No_Splashes.zip/file)
