@@ -10,7 +10,7 @@ These mods are all compatable with my vanilla Towny Earth server. **You can join
 
 2. **Install Fabric-API**: Most Fabric mods require the Fabric API. You can get it [here](https://www.curseforge.com/minecraft/mc-mods/fabric-api) and install it into your `.mods` folder.
 
-## Mods List (for Minecraft version 1.20.2)
+## Mods List (for Minecraft version 1.20+)
 
 1. **Sodium / Iris**  
    Sodium is a more lightweight alternative to OptiFine for Fabric, known for being free from the issues and telemetry often associated with OptiFine. Iris, on the other hand, is a Shaders mod that doesn't disrupt armor textures.  
